@@ -2,6 +2,10 @@
 
 The *schoenberg* package for R provides ggplot-based graphics and useful functions for GAMs fitted using the mgcv package.
 
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/latest/abandoned.svg)](http://www.repostatus.org/#abandoned)
+
+I've abondonded this project, moving development to the [gratia](https://github.com/gavinsimpson/gratia) package because the name "schoenberg" has recently been taken by another package on CRAN. I'm leaving this repo up though as I know some people were using it in scripts, I was using it in a preprint of a GAM paper that is under review, and I have blog posts using it.
+
 ## Build status
 
 [![Build Status](https://travis-ci.org/gavinsimpson/schoenberg.svg?branch=master)](https://travis-ci.org/gavinsimpson/schoenberg) [![Build status](https://ci.appveyor.com/api/projects/status/w7pj8773t5b8fxkb/branch/master?svg=true)](https://ci.appveyor.com/project/gavinsimpson/schoenberg/branch/master) [![codecov](https://codecov.io/gh/gavinsimpson/schoenberg/branch/master/graph/badge.svg)](https://codecov.io/gh/gavinsimpson/schoenberg)
